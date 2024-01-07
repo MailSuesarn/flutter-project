@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676651513099",
+    "project_id": "flash-chat-9680f",
+    "storage_bucket": "flash-chat-9680f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676651513099:android:dd79a689846c9aaaaa9e0e",
+        "android_client_info": {
+          "package_name": "tech.Helios.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676651513099-k8vgkvgi7fr7ala511ratmv810muualf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcb-vTiNInlaKT4n-sPh-ACUaVNE9qGH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676651513099-k8vgkvgi7fr7ala511ratmv810muualf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
